@@ -3,5 +3,7 @@
 	1.MLog.java copy到自己的代码目录
 	
 	2.修改原来Log修改为MLog
+	
+	#ok.
 
 # TODO：在Release模式添加一个写入文件的逻辑。
